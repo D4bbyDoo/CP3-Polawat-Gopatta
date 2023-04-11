@@ -2,6 +2,7 @@
 Test 1
 '''
 
+print("Test1")
 print ("Hello")
 print(123)
 print(1+2+3)
