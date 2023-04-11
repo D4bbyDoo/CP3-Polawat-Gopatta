@@ -1,0 +1,7 @@
+print("Welcome to Dabby Land")
+print("-"*40)
+print("Candy  ",1 ,10,"THB ---" ,1*10,"THB")
+print("Coke   ",2 ,12,"THB ---",2*12,"THB")
+print("-"*40)
+print("Total :",  10+24,"THB")
+print("Thank You")
